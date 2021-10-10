@@ -1,4 +1,4 @@
-package com.leona.ifnmj.primeiroprojeto;
+package br.leona.ifnmj.primeiroprojeto;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
